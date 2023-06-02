@@ -1,1 +1,1 @@
-# Multi-modal Machine Learning for Vehicle Rating Predictions using Image, Text, and Tabular Data
+# Multi-modal Machine Learning for Vehicle Rating Predictions using Image, Text, and Parametric Data
