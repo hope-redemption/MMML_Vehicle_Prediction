@@ -15,7 +15,7 @@ The dataset consists of parametric specifications, text descriptions, and images
 
 ## Using the code and trained models
 
-As our work was carried out on Google Colab, we highly recommend running all the codes and tests there. You can conveniently access the Google Colab page at xxx.
+As our work was carried out on Google Colab, we highly recommend running all the codes and tests there. You can conveniently access the Google Colab page at [Vehicle Rating Prediction](https://drive.google.com/drive/folders/1hPsnMsdDR2U8lBSR68IJv6E4qkHGvcHO?usp=sharing).
 
 ### Setting up the workspace
 
@@ -35,21 +35,21 @@ By following these instructions, you will ensure the organized storage of code, 
 
 ### Training new models
 
-To train new unimodal models, simply execute the code within the following files: xxx, xxx, and xxx.
+To train new unimodal models, simply execute the code within the following files: [Parametric Model](code/Parametric_Model.ipynb), [Text_Model](code/Text_Model.ipynb), [Exterior_Image_Model](code/Exterior_Image_Model.ipynb), and [Interior_Image_Model](code/Interior_Image_Model.ipynb).
 
 Once you have obtained satisfactory results and wish to train new multi-modal machine learning models, follow these steps:
 
-1. Start by utilizing the "Get Predictions from Trained Model" file to obtain score predictions from the trained unimodal models.
+1. Start by utilizing the [Get_Predictions_from_Trained_Model](code/Get_Predictions_from_Trained_Model.ipynb) to obtain score predictions from the trained unimodal models.
 
-2. Next, employ the "Get Linear Regression Weights" file to acquire the initial setting weights for training the multi-modal learning model.
+2. Next, employ the [Get_Linear_Regression_Weights](code/Get_Linear_Regression_Weights.ipynb) to acquire the initial setting weights for training the multi-modal learning model.
 
-3. Finally, utilize the "MML_Model" file to train the multi-modal learning models.
+3. Finally, utilize the [MML_Model](code/MML_Model.ipynb) to train the multi-modal learning models.
 
 By following these steps, you can effectively train both unimodal and multi-modal machine learning models based on your specific requirements.
 
 ### SHAP analysis
 
-%The relative code is provided in the [EvaluateCompressor.ipynb notebook](code/EvaluateCompressor.ipynb).
+%The relative code is provided in the [Image_SHAP](code/0_Image_SHAP.ipynb), [Parametric_SHAP](code/0_Parametric_SHAP.ipynb) and [Text_SHAP](code/0_Text_SHAP_pytorch.ipynb).
 
 ### Model Weights
 
