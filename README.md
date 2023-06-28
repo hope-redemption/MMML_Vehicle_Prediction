@@ -53,7 +53,7 @@ By following these steps, you can effectively train both unimodal and multi-moda
 
 ### Model Weights
 
-To accommodate the extensive memory requirements of our models, we have stored the corresponding model weights on Google Drive. You can access the relevant model weights by visiting the following URL: xxxx.
+To accommodate the extensive memory requirements of our models, we have stored the corresponding model weights on Google Drive. You can access the relevant model weights by visiting the following URL: [model weights](https://drive.google.com/drive/folders/1rPnwaib5kEDgx0ThQLfJgNYx8qKuibgC?usp=sharing).
 
 ## Citation
 
