@@ -11,7 +11,7 @@ You can explore our website page at http://decode.mit.edu/projects/vehiclerating
 
 ## Data
 
-The dataset consists of parametric specifications, text descriptions, and images of vehicles. We will soon be uploading the dataset for access.
+The dataset consists of parametric specifications, text descriptions, and images of vehicles.
 
 ## Using the code and trained models
 
