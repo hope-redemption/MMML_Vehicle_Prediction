@@ -11,7 +11,8 @@ You can explore our website page at http://decode.mit.edu/projects/vehiclerating
 
 ## Data
 
-The dataset consists of parametric specifications, text descriptions, and images of vehicles.
+The dataset consists of parametric specifications, text descriptions, and images of vehicles. The data for developing the multi-modal learning model
+comes from [U.S.News](https://cars.usnews.com/cars-trucks)
 
 ## Using the code and trained models
 
