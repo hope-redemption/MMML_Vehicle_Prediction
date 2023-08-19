@@ -49,7 +49,7 @@ By following these steps, you can effectively train both unimodal and multi-moda
 
 ### SHAP analysis
 
-%The relative code is provided in the [Image_SHAP](code/0_Image_SHAP.ipynb), [Parametric_SHAP](code/0_Parametric_SHAP.ipynb) and [Text_SHAP](code/0_Text_SHAP_pytorch.ipynb).
+The relative code is provided in the [Image_SHAP](code/0_Image_SHAP.ipynb), [Parametric_SHAP](code/0_Parametric_SHAP.ipynb) and [Text_SHAP](code/0_Text_SHAP_pytorch.ipynb).
 
 ### Model Weights
 
