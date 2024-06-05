@@ -36,7 +36,19 @@ By following these instructions, you will ensure the organized storage of code, 
 
 ### Training new models
 
-To train new unimodal models, simply execute the code within the following files: [Parametric Model](code/Parametric_Model.ipynb), [Text_Model](code/Text_Model.ipynb), [Exterior_Image_Model](code/Exterior_Image_Model.ipynb), and [Interior_Image_Model](code/Interior_Image_Model.ipynb).
+To train new unimodal models, simply execute the code within the following files: “Parametric Model”, “Text_Model”, “Exterior_Image_Model”, and “Interior_Image_Model”.
+
+Once you have obtained satisfactory results and wish to train new multi-modal machine learning models, follow these steps:
+
+1. Start by utilizing the “Get_Predictions_from_Trained_Model” to obtain score predictions from the trained unimodal models.
+
+2. Next, employ the “Get_Linear_Regression_Weights” to acquire the initial setting weights for training the multi-modal learning model.
+
+3. Finally, utilize the “MML_Model” to train the multi-modal learning models.
+
+By following these steps, you can effectively train both unimodal and multi-modal machine learning models based on your specific requirements.
+
+<!-- To train new unimodal models, simply execute the code within the following files: [Parametric Model](code/Parametric_Model.ipynb), [Text_Model](code/Text_Model.ipynb), [Exterior_Image_Model](code/Exterior_Image_Model.ipynb), and [Interior_Image_Model](code/Interior_Image_Model.ipynb).
 
 Once you have obtained satisfactory results and wish to train new multi-modal machine learning models, follow these steps:
 
@@ -46,7 +58,7 @@ Once you have obtained satisfactory results and wish to train new multi-modal ma
 
 3. Finally, utilize the [MML_Model](code/MML_Model.ipynb) to train the multi-modal learning models.
 
-By following these steps, you can effectively train both unimodal and multi-modal machine learning models based on your specific requirements.
+By following these steps, you can effectively train both unimodal and multi-modal machine learning models based on your specific requirements. -->
 
 ### SHAP analysis
 
