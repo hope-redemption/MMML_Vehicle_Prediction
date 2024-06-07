@@ -74,4 +74,12 @@ To accommodate the extensive memory requirements of our models, we have stored t
 
 If you use the dataset, code or model, you can cite our publication:
 
-Su, Hanqi, Binyang Song, and Faez Ahmed. "Multi-modal Machine Learning for Vehicle Rating Predictions Using Image, Text, and Parametric Data." arXiv preprint arXiv:2305.15218 (2023).
+@inproceedings{su2023multi,
+  title={Multi-modal machine learning for vehicle rating predictions using image, text, and parametric data},
+  author={Su, Hanqi and Song, Binyang and Ahmed, Faez},
+  booktitle={International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
+  volume={87295},
+  pages={V002T02A089},
+  year={2023},
+  organization={American Society of Mechanical Engineers}
+}
