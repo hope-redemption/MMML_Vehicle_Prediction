@@ -16,7 +16,7 @@ comes from [U.S.News](https://cars.usnews.com/cars-trucks)
 
 ## Using the code and trained models
 
-As our work was carried out on Google Colab, we highly recommend running all the codes and tests there. You can conveniently access the Google Colab page at [Vehicle Rating Prediction](https://drive.google.com/drive/folders/1hPsnMsdDR2U8lBSR68IJv6E4qkHGvcHO?usp=sharing).
+As our work was carried out on Google Colab, we highly recommend running all the codes and tests there. You can access the Google Colab page at [Vehicle Rating Prediction](https://drive.google.com/drive/folders/1hPsnMsdDR2U8lBSR68IJv6E4qkHGvcHO?usp=sharing).
 
 ### Setting up the workspace
 
